@@ -24,11 +24,14 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 Here's an quick overview of the project:
 -logged in user can book different buisness.
+
 -buisness are categorised into sections
+
 -auth services are provided by Docker
+
 -databases sevices are provided by Hygraph
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
 
 ## Deployed On Netlify
 
