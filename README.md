@@ -33,4 +33,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 Netlify provides a really easy to deploy NextJS Applications.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Here is the deployed site [click here](https://aman-home-service.netlify.app/)
